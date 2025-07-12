@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=0FF5F7&center=true&vCenter=true&width=435&lines=Hello!)](https://git.io/typing-svg)
+<p align="center">
+  
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
+
+</p>
 
 # I'm Karmveer
-
 🎓 Computer Engineering student  
 💡 Interested in low-level systems and product building  
 🛠 Learning...
-
-
-
 ## 📫 Connect with me
 [Email](karmveervaghela@gmail.com)
 
