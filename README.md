@@ -1,4 +1,16 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+&pause=1000&color=0BEDF7&center=true&vCenter=true&width=445&height=60&lines=Kon'nichiwa!)](https://git.io/typing-svg)
+
+# I'm Karmveer
+
+🎓 Computer Engineering student  
+💡 Interested in low-level systems and product building  
+🛠 Learning...
+
+
+
+## 📫 Connect with me
+[Email](karmveervaghela@gmail.com)
+
 
 <!--
 **saber-88/saber-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
