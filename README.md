@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3500&pause=1000&color=0FF5F7&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++Kon'nichiwa!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=0FF5F7&center=true&vCenter=true&width=435&lines=Hello!)](https://git.io/typing-svg)
 
 # I'm Karmveer
 
